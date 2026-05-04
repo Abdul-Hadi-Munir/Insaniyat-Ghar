@@ -1,3 +1,4 @@
+-- ACID demo: explicit transaction isolation test cases
 -- ==============================================================================
 -- 08_acid_demo.sql
 -- Description: ACID Properties Demonstration Queries
