@@ -1,3 +1,4 @@
+// Entry point — Insaniyat Ghar Backend v1.0
 // ==============================================================================
 // server.js — Insaniyat Ghar Backend Entry Point
 // SQLite + Express — zero configuration, runs immediately
