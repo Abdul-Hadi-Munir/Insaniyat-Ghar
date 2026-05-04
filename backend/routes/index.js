@@ -1,3 +1,4 @@
+// Route definitions — RESTful API for Insaniyat Ghar
 // ==============================================================================
 // routes/index.js — API Route Definitions for Insaniyat Ghar
 // ==============================================================================
