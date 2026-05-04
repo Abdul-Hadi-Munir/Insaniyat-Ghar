@@ -1,3 +1,4 @@
+-- Triggers: event-driven automation for data integrity
 -- ==============================================================================
 -- 06_triggers.sql
 -- Description: MySQL triggers for business rules and automation
