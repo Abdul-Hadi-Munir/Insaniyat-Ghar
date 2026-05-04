@@ -1,4 +1,3 @@
--- Seed data: representative test dataset for all 7 roles
 -- ==============================================================================
 -- 02_insert_mock_data.sql
 -- Description: Inserts sample data into Insaniyat Ghar tables (Pakistani Context)

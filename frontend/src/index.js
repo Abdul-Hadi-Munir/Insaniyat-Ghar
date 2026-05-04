@@ -1,4 +1,3 @@
-// React entry point — mounts root component into DOM
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

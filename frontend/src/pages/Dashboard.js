@@ -1,4 +1,3 @@
-// Dashboard — KPI overview and real-time stats panel
 // ==============================================================================
 // Dashboard.js — Role-Based Professional Dashboard
 // Each user role sees ONLY their relevant data

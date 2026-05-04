@@ -1,4 +1,3 @@
--- Views: analytical and reporting virtual tables
 -- ==============================================================================
 -- 03_views.sql
 -- Description: Database views for Insaniyat Ghar reporting

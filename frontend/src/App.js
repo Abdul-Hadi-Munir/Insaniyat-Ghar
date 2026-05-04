@@ -1,4 +1,3 @@
-// Main App shell — React SPA with role-based routing
 // ==============================================================================
 // App.js — Main Application Shell for Insaniyat Ghar
 // STRICT Role-Based Access Control

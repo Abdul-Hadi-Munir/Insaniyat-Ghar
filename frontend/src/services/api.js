@@ -1,4 +1,3 @@
-// API service — Axios base config for backend requests
 // ==============================================================================
 // api.js — Centralized API Service for Insaniyat Ghar Frontend
 // ==============================================================================

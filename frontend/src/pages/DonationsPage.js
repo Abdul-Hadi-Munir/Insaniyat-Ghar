@@ -1,4 +1,3 @@
-// Donations page — CRUD interface for donation records
 // ==============================================================================
 // DonationsPage.js — Role-aware Donations with ACID transactions
 //

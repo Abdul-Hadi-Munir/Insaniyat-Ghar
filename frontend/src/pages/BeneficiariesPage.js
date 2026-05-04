@@ -1,4 +1,3 @@
-// Beneficiaries page — manage aid recipients and requests
 // ==============================================================================
 // BeneficiariesPage.js — Beneficiaries listing
 // ==============================================================================
