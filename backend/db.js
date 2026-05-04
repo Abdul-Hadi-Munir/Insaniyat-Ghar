@@ -1,3 +1,4 @@
+// Database layer — SQLite with better-sqlite3 (synchronous)
 // ==============================================================================
 // db.js — SQLite Database Layer with Full ACID Transaction Support
 // Uses better-sqlite3 (synchronous, zero-config, no server needed)
