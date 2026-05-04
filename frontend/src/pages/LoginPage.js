@@ -1,3 +1,4 @@
+// Login page — role-based authentication gateway
 import React, { useState } from 'react';
 import { loginUser } from '../services/api';
 import { FiMail, FiLock, FiArrowRight } from 'react-icons/fi';
