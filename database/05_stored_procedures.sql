@@ -1,3 +1,4 @@
+-- Procedures: encapsulated business logic in PL/SQL
 -- ==============================================================================
 -- 05_stored_procedures.sql
 -- Description: MySQL Stored Procedures for business logic
