@@ -1,3 +1,4 @@
+-- Schema: Insaniyat Ghar, normalized to 3NF
 -- ==============================================================================
 -- 01_create_tables.sql
 -- Description: Creates all tables for Insaniyat Ghar Charity Management System
