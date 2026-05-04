@@ -1,3 +1,4 @@
+// Controller layer — handles all CRUD business logic
 // ==============================================================================
 // apiController.js — REST API Controller (SQLite + ACID transactions)
 // All multi-step operations use db.transaction() for atomicity
